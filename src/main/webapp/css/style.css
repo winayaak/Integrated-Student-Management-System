@@ -1,0 +1,25 @@
+body {
+	padding-top: 56px;
+}
+
+.navbar-brand {
+	font-weight: 600;
+}
+
+.card {
+	margin-bottom: 1.5rem;
+}
+
+.attendance-low {
+	color: #dc3545;
+	font-weight: bold;
+}
+
+.attendance-ok {
+	color: #28a745;
+}
+
+.dashboard-stat {
+	font-size: 2rem;
+	font-weight: 600;
+}
