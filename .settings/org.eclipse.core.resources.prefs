@@ -1,6 +1,13 @@
 eclipse.preferences.version=1
 encoding//src/main/webapp/admin/dashboard.jsp=UTF-8
+encoding//src/main/webapp/admin/hostel.jsp=UTF-8
+encoding//src/main/webapp/admin/placement.jsp=UTF-8
+encoding//src/main/webapp/faculty/add_questions.jsp=UTF-8
+encoding//src/main/webapp/faculty/create_exam.jsp=UTF-8
 encoding//src/main/webapp/faculty/dashboard.jsp=UTF-8
+encoding//src/main/webapp/faculty/exam_results.jsp=UTF-8
 encoding//src/main/webapp/student/dashboard.jsp=UTF-8
 encoding//src/main/webapp/student/exams.jsp=UTF-8
+encoding//src/main/webapp/student/result.jsp=UTF-8
+encoding//src/main/webapp/student/take_exam.jsp=UTF-8
 encoding/<project>=UTF-8
